@@ -1,7 +1,4 @@
-title: UK Top 20 Youtubers
-description: Discover the top 20 YouTubers in the UK, featuring their channels, subscriber counts, and most popular videos.
-logo: rmolai/rmolai.github.io/assets/images/profile_pic.jpg
-show_downloads: True
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme 
+user:
+  name: Rethabile Molai
+  profile_pic: assets/images/profile_pic.jpg
+  linkedin_url: https://www.linkedin.com/in/rethabilemolai/
