@@ -1,7 +1,7 @@
 # This workflow helps to keep configuration files for such tools as ESLint and Prettier in your repo up to date with the reference configuration files from the actions/reusable-workflows repository.
 # Once the reference configuration files are changed in the https://github.com/actions/reusable-workflows/tree/main/reusable-configurations, the workflow will automatically create PR with updates in your repo.
 
-name: Update configuration files
+name: Update configuration files2
 
 on:
   workflow_call:
