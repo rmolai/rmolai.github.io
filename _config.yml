@@ -1,4 +1,8 @@
 user:
   name: Rethabile Molai
-  profile_pic: assets/images/profile_pic.jpg
+  profile_pic: assets/images/profile_pic.png
   linkedin_url: https://www.linkedin.com/in/rethabilemolai/
+downloads:
+  # Add your download links here following the same format
+  # file1: https://link-to-your-file1.com
+  # file2: https://link-to-your-file2.com
