@@ -1,23 +1,22 @@
 title: UK Top 20 Youtubers
-description: >
-  Discover the top 20 YouTubers in the UK, featuring their channels, subscriber counts, and most popular videos.
+description: Discover the top 20 YouTubers in the UK, featuring their channels, subscriber counts, and most popular videos.
 logo: assets/images/logo.png
 show_downloads: true
 
 # Remote theme
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 
-# Optional, social links
+# Author information
 author:
   name: Rethabile Molai
   avatar: assets/images/profile_pic.jpg
-  bio: "Industrial Engineer | Business Analyst"
-  location: "South Africa"
+  bio: Researcher, content creator, and social media enthusiast.
+  location: United Kingdom
   links:
-    - label: "GitHub"
-      url: "https://github.com/rmolai"
-    - label: "LinkedIn"
-      url: "https://www.linkedin.com/in/rethabilemolai/"
+    - label: GitHub
+      url: https://github.com/rmolai
+    - label: LinkedIn
+      url: https://www.linkedin.com/in/rethabilemolai/
 
 # Plugins
 plugins:
@@ -25,27 +24,4 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
-  - jekyll-paginate
-  - jekyll-archives
-  - jekyll-admin
-
-# Configuration for the plugins
-paginate: 5
-paginate_path: "/page:num/"
-
-# SEO and social sharing settings
-seo:
-  type: "website"
-  name: "UK Top 20 Youtubers"
-  description: "Discover the top 20 YouTubers in the UK, featuring their channels, subscriber counts, and most popular videos."
-  url: "https://rmolai.github.io"
-
-
-# Exclude from processing
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
 
