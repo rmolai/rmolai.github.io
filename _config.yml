@@ -18,13 +18,6 @@ author:
     - label: LinkedIn
       url: https://www.linkedin.com/in/rethabilemolai/
 
-# Plugins
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
-
 # Exclude from processing
 exclude:
   - README.md
