@@ -1,0 +1,8 @@
+title: Rethabile Molai
+logo: assets/images/profile_pic.png
+show_downloads: true
+remote_theme: pages-themes/cayman@v0.2.0
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
