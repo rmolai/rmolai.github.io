@@ -1,15 +1,6 @@
-# User information
-user:
-  name: Rethabile Molai
-  profile_pic: assets/images/profile_pic.png
-  linkedin_url: https://www.linkedin.com/in/rethabilemolai/
-
-plugins:
-- jekyll-remote-theme  
-
-title: UK Top 20 Youtubers
-description: Discover the top 20 YouTubers in the UK, featuring their channels, subscriber counts, and most popular videos.
-
-# Remote theme
+title: Stephen
+logo: assets/images/profile_pic.png
+show_downloads: True
 remote_theme: pages-themes/cayman@v0.2.0
-
+plugins:
+- jekyll-remote-theme 
