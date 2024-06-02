@@ -1,48 +1,43 @@
 # Rethabile Molai  
-- Industrial/System Engineer | Business Analyst
+Industrial/System Engineer | Business Analyst
 
 ## Contact
-- **Email:** rethabile.molai@gmail.com
-- **LinkedIn:** [Rethabile Molai](https://www.linkedin.com/in/rethabilemolai/)
+**Email:** rethabile.molai@gmail.com
+**LinkedIn:** [Rethabile Molai](https://www.linkedin.com/in/rethabilemolai/)
 
-Dynamic and data-driven industrial engineer with a passion for leveraging analytics to drive business decisions and optimize processes. Experienced in leading quality assurance initiatives and implementing process improvements to enhance operational efficiency and cost-effectiveness. Possessing excellent communication, leadership, and team-building skills, adept at collaborating in fast-paced environments.
+A dynamic and data-driven industrial engineer with a passion for leveraging analytics to drive business decisions and optimize processes. 
 
 ## Work Experience
 
-### Application Consultant @ INHANCE Supply Chain Solutions (Twin Saver Group) | Johannesburg, GP
+### Application Consultant @ INHANCE Supply Chain Solutions | Johannesburg, GP
 **December 2023 – Present**
-- Led the account in monitoring the integration between legacy software and control tower, ensuring seamless communication and data flow, resulting in a 98% resolution rate for client-reported issues within agreed-upon SLA timeframes.
-- Handled issues arising from products implemented, providing timely resolutions to maintain operational efficiency and reducing average response time for support requests by 20% through streamlined communication channels and proactive monitoring.
-- Acted as a liaison between technical teams and clients to address concerns and facilitate effective communication, resulting in consistently high ratings (average of 4.5 out of 5) on customer satisfaction surveys for responsiveness and effectiveness of support services.
-- Collaborated with cross-functional teams to develop and implement strategies for improving system reliability and customer satisfaction, resulting in a 30% increase in accessibility and usability of support resources for team members through the implementation of a documentation management system.
-- Participated in the testing and deployment of software updates and patches, ensuring minimal disruption to operations, and conducted bi-monthly training sessions for end-users, resulting in a 25% decrease in recurring support requests related to user errors.
+- Monitored integration between legacy software and control tower, achieving a 98% resolution rate for client issues.
+- Reduced response time for support requests by 20% through streamlined communication and proactive monitoring.
+- Liaised between technical teams and clients, resulting in a 4.5/5 average customer satisfaction rating.
+- Improved system reliability and customer satisfaction, increasing support resource accessibility by 30%.
+- Conducted software update tests and end-user training, reducing recurring support requests by 25%.
 
 ### Business Analyst @ ArcelorMittal | Johannesburg, GP
 **December 2022 – December 2023**
-- Led a transformative project aimed at optimizing outbound operations for ArcelorMittal.
-- Collaborated with cross-functional teams to understand requirements and formulated strategies to implement products effectively.
-- Oversaw the integration of products into existing logistics operations, ensuring seamless transitions and minimal disruptions.
-- Directed the planning and execution of outbound logistics activities, focusing on efficiency and cost-effectiveness.
+- Led project to optimize outbound operations at ArcelorMittal.
+- Collaborated on requirements and effective product implementation strategies.
+- Oversaw seamless integration into existing logistics, minimizing disruptions.
+- Directed efficient and cost-effective outbound logistics planning and execution.
 
-### Industrial Engineering Intern @ DPW Construction & Mechanical Engineering (Kaizen Team) | Pretoria, GP
+### Industrial Engineering Intern @ DPW Construction (Kaizen Team) | Pretoria, GP
 **September 2020 – December 2021**
-- Utilized Kaizen methodology to perform continuous improvement projects on a cross-functional team of 4 engineers and technicians, including using 5S to standardize the storage facility.
-- Conducted Overall Equipment Effectiveness (OEE) Analysis on a profile cutter, increasing productivity by 5%.
-- Redesigned floor layout, achieving a 10% improvement in overall productivity while reducing required manpower.
+- Applied Kaizen methodology for continuous improvement with a cross-functional team.
+- Increased productivity by 5% through OEE analysis on a profile cutter.
+- Redesigned floor layout, improving overall productivity by 10% while reducing manpower.
 
 ## Education
 **University of Pretoria, Pretoria**
-- **B.Eng. Industrial Engineering | NQF-8**
-- Dissertation (Distinction): Facility redesign for increased throughput and improved product flow of heavy-duty bollards final assembly at DPW Construction & Mechanical Engineering Pty (Ltd).
+- **B.Eng. Industrial Engineering, NQF-8**
 
 ## Skills
 - Business Analysis
 - Data Analytics 
-- System Implementation
-- System Support
 - SQL
-- Python
-- R Programming
 - Tableau
 - MySQL
 - Microsoft Excel
