@@ -42,7 +42,7 @@ A dynamic and data-driven industrial engineer with a passion for leveraging anal
 - SQL
 - Tableau
 - MySQL
-- Microsoft Excel
+- Excel
 - Microsoft Power BI
 
 ## Certificates
