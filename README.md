@@ -1,5 +1,6 @@
 # Rethabile Molai  
-Industrial/System Engineer | Business Analyst
+
+Industrial/System Engineer / Business Analyst
 
 ## Contact
 **Email:** rethabile.molai@gmail.com
@@ -9,7 +10,7 @@ A dynamic and data-driven industrial engineer with a passion for leveraging anal
 
 ## Work Experience
 
-### Application Consultant @ INHANCE Supply Chain Solutions | Johannesburg, GP
+### Application Consultant @ INHANCE 
 **December 2023 – Present**
 - Monitored integration between legacy software and control tower, achieving a 98% resolution rate for client issues.
 - Reduced response time for support requests by 20% through streamlined communication and proactive monitoring.
@@ -17,14 +18,14 @@ A dynamic and data-driven industrial engineer with a passion for leveraging anal
 - Improved system reliability and customer satisfaction, increasing support resource accessibility by 30%.
 - Conducted software update tests and end-user training, reducing recurring support requests by 25%.
 
-### Business Analyst @ ArcelorMittal | Johannesburg, GP
+### Business Analyst @ INHANCE 
 **December 2022 – December 2023**
 - Led project to optimize outbound operations at ArcelorMittal.
 - Collaborated on requirements and effective product implementation strategies.
 - Oversaw seamless integration into existing logistics, minimizing disruptions.
 - Directed efficient and cost-effective outbound logistics planning and execution.
 
-### Industrial Engineering Intern @ DPW Construction (Kaizen Team) | Pretoria, GP
+### Industrial Engineering Intern @ DPW Construction
 **September 2020 – December 2021**
 - Applied Kaizen methodology for continuous improvement with a cross-functional team.
 - Increased productivity by 5% through OEE analysis on a profile cutter.
