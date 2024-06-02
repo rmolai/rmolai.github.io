@@ -1,9 +1,10 @@
 # Rethabile Molai  
 
-Industrial/System Engineer / Business Analyst
+Industrial Engineer / Business Analyst
 
 ## Contact
 **Email:** rethabile.molai@gmail.com
+
 **LinkedIn:** [Rethabile Molai](https://www.linkedin.com/in/rethabilemolai/)
 
 A dynamic and data-driven industrial engineer with a passion for leveraging analytics to drive business decisions and optimize processes. 
